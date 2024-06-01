@@ -1,5 +1,5 @@
-## Hello my name is Sarah,
-Welcome to my page
+## Hello my name is Tekku
+Everybody has to start somewhere, so I am starting here.
 
 <!--
 **teksentaa/teksentaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
